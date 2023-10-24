@@ -17,3 +17,8 @@ ex: Hello, my name is Jean Valjean
 
 // C. Booleans // 
 Using the provided variable definitions, replace the blanks so that all log statements print truein the console. Answers should be all be valid JS syntax and not weird things that don't make sense but happen to print trueto the console
+
+// D. Declare a variable animal. Set it to be either "cow" or something else
+Write code that will print out "mooooo" if the it is equal to cow
+Change your code so that if the variable animalis anything other than a cow, it will print "Hey! You're not a cow."
+Commit
