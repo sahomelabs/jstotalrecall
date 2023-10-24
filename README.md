@@ -26,3 +26,16 @@ Commit
 E. Driver's Ed
 Make a variable that holds a person's age; be semantic
 Write code that will print out "Here are the keys!", if the age is 16 years or older, or, if the age is younger than 16, a message should print "Sorry, you're too young."
+
+
+II. Loops
+Remember: USE letwhen you initialize your for loops!
+
+This is GOOD: for(let i = 0; i < 100; i++)
+
+This is NO GOOD: for(i = 0; i < 100; i++)
+
+A. The basics
+Write a loop that will print out all the numbers from 0 to 10, inclusive
+Write a loop that will print out all the numbers from 10 up to and including 400
+Write a loop that will print out every third number starting with 12 and going no higher than 4000
