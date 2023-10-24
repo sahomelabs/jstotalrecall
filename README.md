@@ -39,3 +39,8 @@ A. The basics
 Write a loop that will print out all the numbers from 0 to 10, inclusive
 Write a loop that will print out all the numbers from 10 up to and including 400
 Write a loop that will print out every third number starting with 12 and going no higher than 4000
+
+
+B. Get even
+Print out the numbers that are within the range of 1 - 100
+Adjust your code to add a message next to even numbers only that says: "<-- is an even number"
