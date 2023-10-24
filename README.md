@@ -49,3 +49,9 @@ Adjust your code to add a message next to even numbers only that says: "<-- is a
 C. Give me Five
 For the numbers 0 - 100, print out "I found a number. High five!" if the number is a multiple of five
 Example Output:
+
+Write code that will save the sum of all the numbers between 1 - 10 to a variable called bank_account.
+Check your work! Your bank_account should have $55 in it.
+
+You got a bonus! Your pay is now doubled each week. Write code that will save the sum of all the numbers between 1 - 100 multiplied by 2.
+Check your work! Your bank_account should have $10,100 in it.
