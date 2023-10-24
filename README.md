@@ -44,3 +44,8 @@ Write a loop that will print out every third number starting with 12 and going n
 B. Get even
 Print out the numbers that are within the range of 1 - 100
 Adjust your code to add a message next to even numbers only that says: "<-- is an even number"
+
+
+C. Give me Five
+For the numbers 0 - 100, print out "I found a number. High five!" if the number is a multiple of five
+Example Output:
