@@ -26,5 +26,22 @@ console.log(new_variable_question3);
 // I will say no estimate of how long it will take. Experience matter also an experice programmer can solve issue faster compare to beginner 
 
 
-
-
+// Question LabB=================== // B.Strings
+// Strings // 
+// Create a variable called firstVariable
+// Assign it the value of the string "Hello World"
+let firstVariable = "Hello World";
+// Change the value of this variable to some number
+firstVariable = 789;
+// Store the value of firstVariablein a new variable called secondVariable
+let secondVariable = firstVariable;
+// Change the value of secondVariableto any string.
+secondVariable = "I am not a number!";
+// What is the value of firstVariable?
+console.log(firstVariable);
+// Create a variable called yourNameand set it equal to your name as a string. 
+let yourName = "Daniel";
+// Then, write an expression that takes the string "Hello, my name is " and the variable yourNameso that it returns a new string with them concatenated.
+greeting = "Hello, my name is " + yourName;
+// ex: Hello, my name is Jean Valjean
+console.log(greeting);
