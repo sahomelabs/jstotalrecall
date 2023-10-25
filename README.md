@@ -55,3 +55,20 @@ Check your work! Your bank_account should have $55 in it.
 
 You got a bonus! Your pay is now doubled each week. Write code that will save the sum of all the numbers between 1 - 100 multiplied by 2.
 Check your work! Your bank_account should have $10,100 in it.
+
+
+// III. Arrays & Control flow
+C. Accessing elements
+Given the following array const randomThings = [1, 10, "Hello", true]
+
+How do you access the 1st element in the array?
+Change the value of "Hello"to "World"
+Check the value of the array to make sure it updated the array. How? Why, yes! console.log();
+
+
+D. Change values
+Given the following array const ourClass = ["Salty", "Zoom", "Sardine", "Slack", "Github"]
+
+What would you write to access the 3rd element of the array?
+Change the value of "Github" to "Octocat"
+Add a new element, "Cloud City" to the array
